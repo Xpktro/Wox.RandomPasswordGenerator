@@ -1,7 +1,7 @@
 Random Password Generator
 =========================
 
-A Wox [http://www.getwox.com] simple yet customizable password generation plugin.
+A [Wox](http://www.getwox.com) simple yet customizable password generation plugin.
 
 ## Usage
 `pw 5 3`
