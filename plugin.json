@@ -1,0 +1,12 @@
+{
+  "ID":"D5402D027F5A4FB6A757AC0C58CD2FFF",
+  "ActionKeyword":"pw",
+  "Name":"Random Password Generator",
+  "Description":"A simple arbitrary length password generator.",
+  "Author":"Moises Cachay",
+  "Version":"1.0.0",
+  "Language":"python",
+  "Website":"http://www.xpktro.com",
+  "IcoPath": "icon\\password.png",
+  "ExecuteFileName":"plugin.py"
+}
